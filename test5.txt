@@ -1,0 +1,6 @@
+a = 3
+print(f`{a} is good.')
+
+b = int('3')
+
+wrong = float(abc)
