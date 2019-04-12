@@ -6,3 +6,5 @@ b = int('3')
 wrong = float(abc)
 
 other tijiao le commit, no PR, just fetch, this is one, which is saved?S
+
+tong shi gai zhe ge, zhe ge shi other, hui xiao shi?
